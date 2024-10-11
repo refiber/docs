@@ -57,7 +57,7 @@ For migration files, you can create a `database/migrations` folder.
 │     └─ 20240908085315_add_users_table.up.sql // [!code ++]
 ```
 
-You can read more about database in [The Basics/Database](/v0.2/basics/database/).
+You can read more about database in [The Basics/Database](/v0.2/basics/database).
 
 ## public
 
@@ -74,7 +74,7 @@ For example, if you add a file `public/avatar.png`, it will be available at http
 
 This is where all front-end assets like CSS, JavaScript, and view templates are stored.
 
-You can read more about resources in [The Basics/View](/v0.2/basics/view/).
+You can read more about resources in [The Basics/View](/v0.2/basics/view).
 
 ## routes
 
@@ -87,7 +87,7 @@ All route definitions are stored in this directory. If you need to define separa
 │  └─ admin.go // [!code ++]
 ```
 
-You can read more about routing in [The Basics/Routing](/v0.2/basics/routing/).
+You can read more about routing in [The Basics/Routing](/v0.2/basics/routing).
 
 ## storage
 

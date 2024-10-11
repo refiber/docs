@@ -1,6 +1,6 @@
 # Getting Started
 
-Refiber is
+Refiber's journey began as a quest to explore the Go language and its potential for building a modern framework. Inspired by the Laravel and Inertia.js architecture, I embarked on this project, leveraging the robust foundation provided by the GoFiber framework.
 
 ## Installation Guide
 
