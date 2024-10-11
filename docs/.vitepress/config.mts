@@ -8,6 +8,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "v0.2", link: "/v0.2/" }],
 
+    editLink: {
+      pattern: "https://github.com/refiber/docs/edit/main/docs/:path",
+    },
+
     footer: {
       message: "Released under the MIT License.",
       copyright: "Copyright © 2024-present Kevin Adam",
